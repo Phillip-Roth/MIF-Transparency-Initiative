@@ -15,6 +15,6 @@ What's up. This is the MIF Transparency Initive (MTI). This read me will detail 
 6.) Send to the fund
 
 -----------
-#How to add/remove stocks
+# How to add/remove stocks
 
 Coming soon
