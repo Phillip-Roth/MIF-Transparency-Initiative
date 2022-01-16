@@ -1,4 +1,4 @@
-# MIFTransparencyInitive
+# MIF Transparency Initiative
 What's up. This is the MIF Transparency Initive (MTI). This read me will detail how to run the report, and modify the program to adapt to changes in the portfolio.
 ---------
 # How to Run
